@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/iterator",
+    "name"       : "immediate-media/hoa-iterator",
     "description": "The Hoa\\Iterator library.",
     "type"       : "library",
     "keywords"   : ["library", "iterator"],
@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Iterator"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
